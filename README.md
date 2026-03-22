@@ -3,7 +3,7 @@ Heya!
 I'm a Data Scientist, Machine Learning Engineer, and former Particle Physicist. 
 
 ### 👨‍💻 About Me
-- 🧠 I hold a PhD in Particles and Fields and transitioned into data science to solve complex analytical problems.
+- 📚 I hold a PhD in Particles and Fields and transitioned into data science to solve complex analytical problems.
 - 🏢 My recent experience includes architecting AI assistants, end-to-end OCR systems, agentic workflows and end-to-end predictive modelling.
 - 🎮 Free time usually means: competitive gaming (AoE2, AoE3, SF6, KoFXV, Poker, Chess, TFT, ...), acoustic guitar/piano, epic fantasy in any medium, and hanging with cool people (or pets).  
 
